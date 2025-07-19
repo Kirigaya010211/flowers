@@ -172,7 +172,7 @@ body {
   width: 9vmin;
   height: 4vmin;
   border-radius: 50%;
-  background-color: #fff;
+  background: radial-gradient(circle, #ffb3b3, #800020);
 }
 .flower__white-circle::after {
   content: "";
@@ -352,7 +352,7 @@ body {
   bottom: 0vmin;
   width: 1vmin;
   height: 1vmin;
-  background-color: #fffb00;
+  background-color: #ff4d6d;
   border-radius: 50%;
   filter: blur(0.2vmin);
   animation: light-ans 4s linear infinite backwards;
